@@ -1,0 +1,12 @@
+Observações nas resoluções dos exercícios:
+
+1) Ok;
+2) Problemas na implementação própria;
+3) Problemas no escalonamento de atributos no Conjunto de Dados #1;
+4) Não foi feita a parte de avaliação do modelo no Conjunto de Dados #4;
+5) Não foram feitas as predições do Conjunto de Dados #4;
+6) Ok;
+7) Ok;
+8) Não foi feita a parte relativa ao Conjunto de Dados #5;
+9) Exercício incompleto;
+10) Não foi feita a parte do conjunto de dados CIFAR-10.
